@@ -1,7 +1,7 @@
 # Features :
 doctor log in\
 doctor can register the patient\
-create a checkup report\
+create a checkup report
 
 # Project setup :
 npm install\
